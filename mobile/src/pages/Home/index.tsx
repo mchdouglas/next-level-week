@@ -18,7 +18,6 @@ const Home = () => {
   }
 
   return (
-    <KeyboardAvoidingView style={{ flex: 1, }} behavior="padding">
       <ImageBackground
         source={require('../../assets/home-background.png')}
         style={styles.container}
@@ -63,7 +62,6 @@ const Home = () => {
           </RectButton>
         </View>
       </ImageBackground>
-    </KeyboardAvoidingView>
   );
 }
 
