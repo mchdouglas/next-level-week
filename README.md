@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ecoleta é um projeto que visa conectar ongs à pessoas que desejam ajudar em seus casos.
+O Ecoleta tem como objetivo conectar pessoas a empresas que coletam resíduos específicos.
 
 
 ## 🤔 Como contribuir
